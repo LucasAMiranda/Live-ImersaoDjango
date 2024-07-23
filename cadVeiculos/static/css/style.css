@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0R6T0s0WG9XByjyIwjS4bzcKlIZ2TTognQ&s');
+    width: 100%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pt-2{
+    color: darkred;
+}
+
+
+#form{
+    width: 420px;
+}
